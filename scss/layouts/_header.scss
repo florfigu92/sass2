@@ -1,0 +1,10 @@
+header{
+    width: 100%;
+    background-color: #FBDFE9;
+    grid-area: header;
+
+        .carousel-inner h5, p{
+            font-family: $fontmain;
+            color: $black;
+        }
+}
